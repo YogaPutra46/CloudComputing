@@ -1,2 +1,6 @@
 Materi cloud computing
 jenis - jenis hosting
+Private Cloud
+Public Cloud
+Hybrid Cloud
+Community Cloud
